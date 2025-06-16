@@ -1,0 +1,23 @@
+# VS Code
+.vscode/
+
+#python
+__pycache__/
+.python-version
+tree.dot
+
+# macOS
+.DS_Store
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environments
+.env
+.venv
+env/
+venv/
+env.bak/
+venv.bak/

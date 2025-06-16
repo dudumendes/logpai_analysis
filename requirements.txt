@@ -1,0 +1,8 @@
+pandas
+urllib3
+spacy
+scikit-learn
+matplotlib
+seaborn
+yellowbrick
+pydot
